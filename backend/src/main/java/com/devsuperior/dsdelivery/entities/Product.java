@@ -27,7 +27,7 @@ public class Product implements Serializable{
 	private String description;
 	private String imageUri;
 	
-	public void product() {
+	public Product() {
 		
 	}
 
